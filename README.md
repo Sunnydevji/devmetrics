@@ -43,3 +43,5 @@ PRs welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## 📄 License
 
 MIT © 2025 SunnyDevji
+
+[![Star on GitHub](https://img.shields.io/github/stars/sunnydevji/devmetrics?style=social)](https://github.com/SunnyDevji/devmetrics/stargazers)
