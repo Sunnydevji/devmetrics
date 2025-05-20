@@ -9,7 +9,7 @@ A simple, beautiful GitHub repository analytics dashboard.
 
 ## 🚀 Live Demo
 
-[Click here to view live](https://YOUR_USERNAME.github.io/devmetrics)
+[Click here to view live](https://sunnydevji.github.io/devmetrics)
 
 ## 🔧 How to Use
 

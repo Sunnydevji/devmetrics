@@ -13,7 +13,7 @@ Thank you for your interest in contributing to DevMetrics! 🎉
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/devmetrics.git
+git clone https://github.com/sunnydevji/devmetrics.git
 cd devmetrics
 npm install
 npm run dev
