@@ -1,4 +1,20 @@
 # DevMetrics 📊
+🔍 What DevMetrics Does
+<details>
+📊 Visualizes GitHub Repository Stats without login or setup
+
+🧠 Analyzes Language Distribution with interactive pie charts
+
+👥 Shows Contributor Insights in a clean format
+
+🕒 Lists Recent Commits with author and message details
+
+💡 Fetches Live Data from GitHub’s public API instantly
+
+🌙 Dark Mode UI with elegant glassmorphism design
+
+🚫 No Auth, No Database — just open and analyze!
+</details>
 
 A simple, beautiful GitHub repository analytics dashboard.
 
