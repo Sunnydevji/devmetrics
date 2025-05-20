@@ -1,7 +1,9 @@
 # DevMetrics 📊
 🔍 What DevMetrics Does
 <details>
+
 📊 Visualizes GitHub Repository Stats without login or setup
+
 
 🧠 Analyzes Language Distribution with interactive pie charts
 
